@@ -11,6 +11,10 @@ footer {
     color: #A9A9A9;
 }
 
+form {
+    margin-top: 50px;
+}
+
 .icon-bar {
     background-color: #fff;
 }
