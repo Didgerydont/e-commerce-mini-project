@@ -1,7 +1,6 @@
 body {
     font-family: Arial;
-    padding-top: 20%; 
-
+    padding-top: 50px;
 }
 
 footer {
@@ -10,10 +9,6 @@ footer {
     padding-bottom: 40px;
     border-top: 1px solid #ededed;
     color: #A9A9A9;
-}
-
-form {
-    margin-top: 50px;
 }
 
 .icon-bar {
